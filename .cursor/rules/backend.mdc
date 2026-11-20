@@ -1,0 +1,9 @@
+---
+description: Reglas del backend Klima
+globs: backend/**
+---
+- Validar toda entrada con Zod.
+- Aplicar autorización en rutas administrativas.
+- Mantener reglas de negocio en backend.
+- Usar transacciones para operaciones consistentes.
+- Agregar tests de reglas y casos borde.

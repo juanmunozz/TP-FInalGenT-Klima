@@ -1,0 +1,12 @@
+# Glosario
+- **Solicitud:** pedido de atención enviado por un visitante.
+- **Cliente:** persona asociada a una o más solicitudes.
+- **Visita técnica:** franja de tiempo confirmada para atender una solicitud.
+- **Agenda:** conjunto de visitas confirmadas.
+- **Recurso:** técnico/equipo de trabajo cuya disponibilidad se controla; MVP usa `KLIMA`.
+- **Superposición:** intersección total o parcial de dos intervalos horarios.
+- **Presupuesto:** estimación económica previa a la aceptación del trabajo.
+- **Trabajo:** tarea realizada o evaluada durante una visita.
+- **Estado:** etapa de una solicitud o visita.
+- **Costo de visita:** importe cobrado por la visita, descontable si se cumplen las condiciones definidas.
+- **Administrador:** usuario autorizado para operar el panel interno.

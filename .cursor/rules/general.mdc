@@ -1,0 +1,9 @@
+---
+description: Reglas generales del proyecto Klima
+alwaysApply: true
+---
+- Leer AGENTS.md y docs/spec.md antes de implementar.
+- No inventar datos comerciales.
+- Un commit por tarea.
+- No subir secretos ni `.env`.
+- No marcar tareas como hechas sin evidencia de pruebas.

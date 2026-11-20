@@ -1,0 +1,8 @@
+---
+description: Reglas del frontend Klima
+globs: frontend/**
+---
+- Usar TypeScript estricto.
+- Implementar estados de carga, éxito y error.
+- No afirmar que una solicitud fue registrada hasta recibir respuesta exitosa de API.
+- Mantener responsive y accesibilidad básica.
